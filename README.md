@@ -46,3 +46,46 @@ This project was developed as part of our university coursework to demonstrate s
 ```bash
 git clone https://github.com/Aianaaa/quickcart.git
 cd quickcart
+
+### 2️⃣ Install Dependencies
+npm install
+# or
+yarn install
+
+### 3️⃣ Run the Development Server
+npm run dev
+👉 Visit: http://localhost:3000
+
+### 📸 Screenshots
+🔐 Authentication Page
+
+
+🛒 Home Page / Product Listing
+
+
+
+### 📁 Folder Structure
+bash
+Copy
+Edit
+📁 app/              # Next.js app directory
+├── page.js          # Homepage
+├── login/           # Login page
+├── register/        # Register page
+├── product/[id]/    # Dynamic product page
+📁 components/       # Reusable UI components
+📁 public/           # Static assets
+📁 styles/           # Global styles (Tailwind config)
+✨ Live Demo
+
+
+Check out the deployed version of the site:
+🔗 quickcart-app.vercel.app
+
+### 🧠 Team Members
+👩‍💻 Ayana Ibraiim kyzy – 41288
+👩‍💻 Aliia Sherikbaeva –
+👩‍💻 Ayse Begum Nas – 41798
+👩‍💻 Munyashadzashe Mutsambiwa –
+
+
