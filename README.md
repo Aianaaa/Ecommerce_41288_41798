@@ -5,7 +5,7 @@
 ## 📌 About the Project  
 
 **QuickCart** is a modern and responsive **e-commerce web application** built using **Next.js 14**.  
-It allows users to browse and purchase products with ease while providing a smooth and clean shopping experience.
+It allows users to easily browse and purchase products while providing a smooth and clean shopping experience.
 
 This project was developed as part of our university coursework to demonstrate skills in full-stack development, responsive UI design, and user interaction.
 
@@ -17,7 +17,7 @@ This project was developed as part of our university coursework to demonstrate s
 ✅ User authentication (login/register)  
 ✅ Browse product listings  
 ✅ View product details  
-✅ Add products to cart  
+✅ Add products to the cart  
 ✅ Checkout with delivery options  
 ✅ Responsive design for all screen sizes  
 
@@ -49,7 +49,7 @@ cd quickcart
 
 2️⃣ Install Dependencies
 npm install
-# or
+or
 yarn install
 
 3️⃣ Run the Development Server
