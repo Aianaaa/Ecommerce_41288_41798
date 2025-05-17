@@ -43,7 +43,7 @@ This project was developed as part of our university coursework to demonstrate s
 ## ⚙️ Installation and Setup  
 
 ### 1️⃣ Clone the Repository  
-```bash
+
 git clone https://github.com/Aianaaa/quickcart.git
 cd quickcart
 
