@@ -58,15 +58,14 @@ This project was developed as part of our **university coursework** to demonstra
 
 To run this project locally:
 
-### 1️⃣ Clone the Repository
-```bash
+1️⃣ Clone the Repository
 git clone https://github.com/your-username/quickcart.git
 cd quickcart
 
-###2️⃣ Install Dependencies
+2️⃣ Install Dependencies
 npm install
 
-###3️⃣ Run the Development Server
+3️⃣ Run the Development Server
 npm run dev
 The application will be available at: http://localhost:3000
 
