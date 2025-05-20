@@ -1,6 +1,6 @@
 # 🛒 QuickCart – E-commerce Web App (Frontend)
 
-[![Live Demo](https://ecommerce-delta-sooty-24.vercel.app/)](https://ecommerce-delta-sooty-24.vercel.app/)
+[[Live Demo](https://ecommerce-delta-sooty-24.vercel.app/)](https://ecommerce-delta-sooty-24.vercel.app/)
 
 ## 📌 About the Project  
 
