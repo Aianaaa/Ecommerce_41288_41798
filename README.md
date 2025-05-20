@@ -63,10 +63,10 @@ To run this project locally:
 git clone https://github.com/your-username/quickcart.git
 cd quickcart
 
-2️⃣ Install Dependencies
+###2️⃣ Install Dependencies
 npm install
 
-3️⃣ Run the Development Server
+###3️⃣ Run the Development Server
 npm run dev
 The application will be available at: http://localhost:3000
 
