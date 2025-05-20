@@ -9,7 +9,11 @@ const Footer = () => {
         <div className="w-4/5">
           <Image className="w-28 md:w-32" src={assets.logo} alt="logo" />
           <p className="mt-6 text-sm">
+<<<<<<< HEAD
             QuickCart is a modern and responsive e-commerce web application developed using the MERN stack.
+=======
+           QuickCart is a modern and responsive e-commerce web application developed using the MERN stack.
+>>>>>>> e65dc439f8cc966c5a0f3557a334c95c858b949a
 It provides a seamless and intuitive shopping experience where users can browse, purchase, and manage products with ease.
           </p>
         </div>
@@ -38,8 +42,13 @@ It provides a seamless and intuitive shopping experience where users can browse,
           <div>
             <h2 className="font-medium text-gray-900 mb-5">Get in touch</h2>
             <div className="text-sm space-y-2">
+<<<<<<< HEAD
               <p>+48 780 604 341</p>
               <p>aia@guickcart.com</p>
+=======
+              <p>+48-780-604-341</p>
+              <p>aia@quickcart.dev</p>
+>>>>>>> e65dc439f8cc966c5a0f3557a334c95c858b949a
             </div>
           </div>
         </div>
