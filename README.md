@@ -1,6 +1,6 @@
 # 🛒 QuickCart – E-commerce Web App (Frontend)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-quickcart--app.vercel.app-blue)](https://quickcart-app.vercel.app/)
+[![Live Demo](https://ecommerce-delta-sooty-24.vercel.app/)](https://quickcart-app.vercel.app/)
 
 ## 📌 About the Project  
 
