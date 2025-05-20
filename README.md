@@ -44,11 +44,6 @@ This project was developed as part of our university coursework to demonstrate s
 
 ## ⚙️ Installation and Setup  
 
-### 1️⃣ Clone the Repository  
-
-git clone [https://github.com/Aianaaa/quickcart.git](https://github.com/Aianaaa/Ecommerce_41288_41798.git)
-cd quickcart
-
 2️⃣ Install Dependencies
 npm install
 
