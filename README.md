@@ -54,7 +54,7 @@ This project was developed as part of our **university coursework** to demonstra
 
 ---
 
-## ⚙️ Installation and Setup  
+### ⚙️ Installation and Setup  
 
 To run this project locally:
 
