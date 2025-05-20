@@ -5,18 +5,26 @@ import { NextResponse } from "next/server";
 
 export async function GET(request) {
     try {
-        const { userID } = getAuth(request)
-        await connectDB()
-        const user = await User.findById(userID)
+        const { userId } = getAuth(request); // userID -> userId (в Clerk обычно так)
+        await connectDB();
+        const user = await User.findById(userId);
 
         if (!user) {
-            return NextResponse.json({ success: false, message: "User Not Found"})
+            return NextResponse.json({
+                success: false,
+                message: "User not found.",
+            }, { status: 404 });
         }
 
-        return NextResponse.json({success:true, user})
-        
+        return NextResponse.json({
+            success: true,
+            user,
+        });
+
     } catch (error) {
-        return NextResponse.json({ success: false, message: error.message })
-        
+        return NextResponse.json({
+            success: false,
+            message: error.message || "An unexpected error occurred.",
+        }, { status: 500 });
     }
 }
