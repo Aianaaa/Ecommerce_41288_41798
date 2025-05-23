@@ -70,12 +70,7 @@ npm run dev
 The application will be available at: http://localhost:3000
 
 
-👥 Team Members
-Name	Student ID
-👩‍💻 Aiana Ibraiim kyzy	41288
-👩‍💻 Aliia Sherikbaeva	41297
-👩‍💻 Ayse Begum Nas	41798
-👩‍💻 Munyashadzashe Mutsambiwa	39817
+
 
 
 
